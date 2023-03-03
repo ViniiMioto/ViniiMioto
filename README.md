@@ -9,11 +9,11 @@
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-    <img align="center" alt="CSS3" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-    <img align="center" alt="PYTHON" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" alt="C & C++" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
-    <img align="center" alt="JAVA" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img align="center" alt="HTML5" height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img align="center" alt="CSS3" height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+    <img align="center" alt="PYTHON" height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align="center" alt="C & C++" height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+    <img align="center" alt="JAVA" height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div><br/>
 
 ### "Apaixonado pela técnologia e suas aplicações"<br/>
