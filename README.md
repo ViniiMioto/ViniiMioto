@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viniciusmioto.contato@gmail.com)
 
 
-![ViniiMioto GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniiMioto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiMioto&layout=compact)](https://github.com/ViniiMioto/github-readme-stats)
+[![ViniiMioto GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniiMioto&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiMioto)](https://github.com/ViniiMioto/github-readme-stats)
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
