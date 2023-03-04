@@ -17,7 +17,7 @@
     <img align="center" alt="JAVA" height="30px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div><br/>
 
-### "Apaixonado pela técnologia e suas aplicações"<br/>
+### "Apaixonado pela tecnologia e suas aplicações"<br/>
 
 💼 - Trabalhando atualmente como suporte de T.I<br/>
 📚 - Estudando Java e MySQL<br/>
